@@ -253,7 +253,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 - GitHub: [@bhashitm2](https://github.com/bhashitm2)
 - Repository: [PreeCook_Recipe](https://github.com/bhashitm2/PreeCook_Recipe)
-- LinkedIn: [Connect with me](https://linkedin.com/in/bhashit-maheshwari)
+- LinkedIn: [Connect with me]([https://linkedin.com/in/bhashit-maheshwari](https://www.linkedin.com/in/bhashit-maheshwari-1b4206254/))
 
 ## 🙏 Acknowledgments
 
