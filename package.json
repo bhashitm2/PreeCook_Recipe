@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "A modern recipe discovery app built with React and Firebase",
   "author": "Bhashit M <bhashitm2@gmail.com>",
-  "homepage": "https://github.com/bhashitm2/PreeCook_Recipe",
   "repository": {
     "type": "git",
     "url": "https://github.com/bhashitm2/PreeCook_Recipe.git"
