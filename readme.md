@@ -19,7 +19,7 @@ PreCook is a modern, responsive recipe discovery application that allows users t
 
 ## 🚀 Live Demo
 
-**[Visit PreCook Recipe App](https://precook-recipe-app.web.app/)**
+**[Visit PreCook Recipe App](https://precook-recipe.vercel.app/)**
 
 ## 🛠️ Tech Stack
 
